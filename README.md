@@ -7,35 +7,32 @@
 Uploading WhatsApp Video 2024-01-07 at 14.27.39_7ec9b50a.mp4…
 
 
-Prerequisites:
+**Prerequisites:**
 
-Make sure you have Flutter and Dart installed on your machine. You can download them from here.
-Steps:
-Clone the Repository:
-Open a terminal and run the following command to clone the GitHub repository to your local machine:
+Make sure you have Flutter and Dart installed on your machine. You can download them from here. Steps: Clone the Repository: Open a terminal and run the following command to clone the GitHub repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/Vishwakarma-abhi/API-Task
+```java
+git clone https://github.com/Vishwakarma-abhi/API-Task
+```
 
-Navigate to Project Directory:
-Change your current directory to the project directory:
+**Navigate to Project Directory: Change your current directory to the project directory:**
 
-bash
-Copy code
-cd your_repository
-Get Dependencies:
-Run the following command to get the project dependencies:
+```java
+cd eighty7_api_task
+```
 
-bash
-Copy code
-flutter pub get
-Run the Project:
-Once the dependencies are fetched, you can run the project using:
+**Get Dependencies: Run the following command to get the project dependencies:**
 
-bash
-Copy code
+```java
+flutter pub get 
+```
+
+**Run the Project: Once the dependencies are fetched, you can run the project using:**
+
+```java
 flutter run
-This command will build and run your Flutter app on an available device or emulator.
+```
 
-Ensure that you have an emulator running or a physical device connected to your machine.
+ **This command will build and run your Flutter app on an available device or emulator.**
+
+**Ensure that you have an emulator running or a physical device connected to your machine.**
